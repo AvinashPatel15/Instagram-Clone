@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "caption": "Hello!",
+      "id": "1",
+      "image_url": "https://i.ibb.co/N6dBSh2/trashed-1653447593-IMG-20210819-102923.jpg"
+    },
+    {
+      "caption": "Live a life where happiness is a precondition",
+      "id": "2",
+      "image_url": "https://i.ibb.co/bLHqgxF/1602809658568.png"
+    },
+    {
+      "caption": "Mirror: 'You look cute today.' Camera: 'LOL, no.",
+      "id": "3",
+      "image_url": "https://i.ibb.co/TKLHFrp/B612-20201205-150650-403.jpg"
+    },
+    {
+      "caption": "Sunset🖤",
+      "id": "4",
+      "image_url": "https://i.ibb.co/TK7rxxc/IMG-20210317-162704.jpg"
+    },
+    {
+      "caption": "Not for the moment, but forever💫⚡",
+      "id": "5",
+      "image_url": "https://i.ibb.co/0ybg9t5/B612-20210221-205039-444.jpg"
+    },
+    {
+      "caption": "I can make your monday better like the weekends⚡❤",
+      "id": "6",
+      "image_url": "https://i.ibb.co/7n7qH7h/1157e51893bc926f57f07d44670818a3.jpg"
+    },
+    {
+      "caption": "If you can't take the heat dont light the fuse",
+      "id": "7",
+      "image_url": "https://i.ibb.co/PzDxxjQ/IMG-20200726-212034.jpg"
+    },
+    {
+      "caption": "👻✨👻",
+      "id": "8",
+      "image_url": "https://i.ibb.co/pjVrd06/Pics-Art-12-30-10-19-39.jpg"
+    },
+    {
+      "caption": "🖤",
+      "id": "9",
+      "image_url": "https://i.ibb.co/5BdxWYM/IMG-20210609-WA0014.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

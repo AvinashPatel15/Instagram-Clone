@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram</title>
+    <link rel="shortcut icon" href="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" type="image/x-icon">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="navbar"></div>
+
+    <div>
+        <h3>Add Post</h3>
+        <input type="text" id="id">
+        <input type="text" id="caption">
+        <input type="file" id="image" accept="image/*">
+        <button id="create_btn">Create Post</button>
+
+        <h3>Delete Post</h3>
+        <input type="text" id="delete_id" placeholder="Enter Post id to Delete">
+        <button id="delete_btn">Delete Post</button>
+
+        <h3>Update Caption</h3>
+        <input type="text" id="update_id" placeholder="Enter Post id to Update">
+        <input type="text" id="new_caption">
+        <button id="update_btn">Update Caption</button>
+    </div>
+</body>
+<script type="module" src="./create.js"></script>
+
+</html>
